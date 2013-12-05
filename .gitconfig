@@ -1,0 +1,6 @@
+[user]
+	name = Gevorg
+	email = gevorg.melikbekyan@gmail.com
+[core]
+	autocrlf = true
+	safecrlf = true
